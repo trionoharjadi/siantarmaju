@@ -71,7 +71,7 @@ Information about development is also available:
    features/*
 
 
-.. _dev-docs:
+.. .. _dev-docs:
 
 .. toctree::
    :maxdepth: 2
