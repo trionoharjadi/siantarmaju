@@ -2,8 +2,7 @@
 
 Selamat datang di siantarmaju docs
 ==================================================
-
-:ref:`dev/search`
+Website ini merupakan pusat informasi mengenai aplikasi yang dibuat oleh siantarmaju.
 
 The main documentation for the site is organized into a couple sections:
 
@@ -103,5 +102,4 @@ Information about development is also available:
 
    design
    theme
-   search
-
+  
