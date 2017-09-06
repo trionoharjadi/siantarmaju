@@ -1,7 +1,9 @@
+
 Search
 ===========
+.. note::
 :Last Update: 6 September 2017
-:Rev: 1
+:Rev: 1.0
 
 Description
 -------------
@@ -15,6 +17,8 @@ Rules
 --------
 1. Pencarian berdasarkan data yang terdapat dalam list view
 
-User Interface Design
+User Interface
 ------------------------
 .. image:: /searchdefault.png
+
+
