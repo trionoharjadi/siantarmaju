@@ -17,4 +17,4 @@ Rules
 
 User Interface Design
 ------------------------
-.. image:: searchdefault.png
+.. image:: /searchdefault.png
