@@ -1,6 +1,7 @@
 .. comment
 
-Welcome to Siantarmaju help and documentation
+#Selamat datang di siantarmaju docs
+###Pusat bantuan dan dokumentasi aplikasi
 ==================================================
 
 
