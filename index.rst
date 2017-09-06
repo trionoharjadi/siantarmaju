@@ -3,7 +3,7 @@
 Selamat datang di siantarmaju docs
 ==================================================
 
-:ref:`search`
+:ref:`dev/search`
 
 The main documentation for the site is organized into a couple sections:
 
@@ -71,13 +71,13 @@ Information about development is also available:
    features/*
 
 
-.. .. _dev-docs:
+.. _dev-docs:
 
 .. toctree::
    :maxdepth: 2
    :caption: Developer Documentation
 
-   search
+   dev/search
 
 .. _business-docs:
 
