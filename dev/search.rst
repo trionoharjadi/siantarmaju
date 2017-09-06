@@ -23,6 +23,12 @@ search default
 ===================
 .. image:: /searchdefault.png
 
+info
+----------
+
+behaviour
+----------
+
 search option
 ===================
 
