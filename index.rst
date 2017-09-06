@@ -3,7 +3,7 @@
 Selamat datang di siantarmaju docs
 ==================================================
 
-:ref:`search`
+:ref:`dev/search`
 
 The main documentation for the site is organized into a couple sections:
 
