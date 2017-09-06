@@ -1,7 +1,7 @@
 
 Search
 ===========
-.. note::
+.. note:: informasi file
 :Last Update: 6 September 2017
 :Rev: 1.0
 
