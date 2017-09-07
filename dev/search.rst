@@ -45,7 +45,7 @@ Rules
 ===========
 1. Metode pencarian untuk field text menggunakan %like% (mengandung kata tsb) 
 2. Untuk inputan tanggal menggunakan format tanggal
-3. Untuk inputan nilai menggunakan operator
+3. Untuk inputan nilai menggunakan operator nilai (>,<,=,<>)
 4. Pada pencarian lebih dari satu search option menggunakan operator AND
 5. Jika pencarian lebih dari satu search option yang sama menggunakan operator OR
 
