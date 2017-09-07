@@ -35,7 +35,7 @@ keterangan
 
 search option
 ===================
-.. image:: /searchdefault.png
+.. image:: /searchoption.png
 
 
 Back End
