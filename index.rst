@@ -29,8 +29,8 @@ Information about development is also available:
    :maxdepth: 2
    :caption: About this apps
 
-   release-notes
-   feedback
+   about/release-notes
+   about/feedback
 
 
 .. _feature-docs:
