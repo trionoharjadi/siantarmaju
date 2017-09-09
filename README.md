@@ -1,12 +1,10 @@
 # siantarmaju repository
 dokumentasi aplikasi siantarmaju
 
-guide
-
-
+## section format
 Normally, there are no heading levels assigned to certain characters as the structure is determined from the succession of headings. However, this convention is used in Python’s Style Guide for documenting which you may follow:
 
-* # with overline, for parts
+* /# with overline, for parts
 * * with overline, for chapters
 * =, for sections
 * -, for subsections
