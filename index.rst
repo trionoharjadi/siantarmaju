@@ -31,7 +31,7 @@ Information about development is also available:
    guides/index
    api
    embed
-   google-photos-for-android
+   user/google-photos-for-android
 
 .. _about-docs:
 
