@@ -21,7 +21,7 @@ Information about development is also available:
    :maxdepth: 2
    :caption: User Documentation
 
-   user/google-photos-for-android
+   user/*
 
 
 .. _feature-docs:
@@ -39,8 +39,7 @@ Information about development is also available:
    :maxdepth: 2
    :caption: About
 
-   about/release-notes
-   about/feedback
+   about/*
 
 
 .. _dev-docs:
@@ -49,7 +48,7 @@ Information about development is also available:
    :maxdepth: 2
    :caption: Developer Documentation
 
-   dev/search
+   dev/*
    
 
 .. _design-docs:
@@ -58,6 +57,6 @@ Information about development is also available:
    :maxdepth: 2
    :caption: Designer Documentation
 
-   design
-   theme
+   design/*
+ 
   
