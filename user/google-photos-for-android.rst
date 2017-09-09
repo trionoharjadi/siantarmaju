@@ -77,4 +77,9 @@ Tekan dan tahan foto yang baru saja Anda hapus
 Pada bagian atas sebelah kanan, tap Restore . Ini akan mengembalikan foto Anda ke dalam aplikasi di bagian Photos
 Perlu Anda Ketahui di aplikasi Google Photos di Siantarmaju.com, foto yang sudah di hapus tidak dapat di restore kembali bila sudah di hapus dari tempat sampah.
 
+.. sidebar:: Sidebar Title
+    :subtitle: Optional Sidebar Subtitle
 
+    Subsequent indented lines comprise
+    the body of the sidebar, and are
+    interpreted as body elements.
