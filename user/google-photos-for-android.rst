@@ -43,7 +43,7 @@ Buka aplikasi Google Photos .
 Tap foto yang ingin Anda edit > Edit .
 Pada bagian bawah, tap Filter .
 Scroll melalui filter ke bagian bawah. Pilih beberapa untuk melihat tampilannya
-		:Tip: Anda bisa tap filter dua kali untuk mengatur intensitasnya
+	:Tip: Anda bisa tap filter dua kali untuk mengatur intensitasnya
 Pada bagian atas, tap save
 Apabila  "back up & sync" on, maka hasil edit tadi akan otomatis sinkronisasi ke semua device yang mengguna google photos, jadi Anda hanya perlu melakukan perubahan sekali saja.
 
@@ -76,7 +76,7 @@ Tekan dan tahan foto yang baru saja Anda hapus
 Pada bagian atas sebelah kanan, tap Restore . Ini akan mengembalikan foto Anda ke dalam aplikasi di bagian Photos
 Perlu Anda Ketahui di aplikasi Google Photos di Siantarmaju.com, foto yang sudah di hapus tidak dapat di restore kembali bila sudah di hapus dari tempat sampah.
 
-. topic:: Your Topic Title
+.. topic:: Your Topic Title
 
     Subsequent indented lines comprise
     the body of the topic, and are
