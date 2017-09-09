@@ -1,6 +1,6 @@
 Feedback
 ###########
 
-Silahkan mengirimkan saran dan keluhan Anda 'disini <https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=systemsm@siantarmaju.com&su=FEEDBACKSYS/PUR/GOOGLEAPPENGINE&body=saran/kritik>'
+Silahkan mengirimkan saran dan keluhan Anda 'disini <https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=systemsm@siantarmaju.com&su=FEEDBACKSYS/PUR/GOOGLEAPPENGINE&body=saran/kritik>'_
 
-ini 'test <https://gcloud-python.readthedocs.io/en/latest/bigtable-data-api.html>'
+ini 'test <https://gcloud-python.readthedocs.io/en/latest/bigtable-data-api.html>'_
