@@ -3,7 +3,7 @@ Release Notes
 
 2016.1.3
 ******************
-..:Tanggal: 2 November 2016
+ :Tanggal: 2 November 2016
 
 Perubahan
 =============
@@ -15,7 +15,7 @@ Perubahan
 
 2016.1.2
 *****************
-..:Tanggal: 29 Oktober 2016
+ :Tanggal: 29 Oktober 2016
 
 Baru
 ========
@@ -33,7 +33,7 @@ Perubahan
 
 2016.1.1
 ****************
-..:Tanggal: 15 Oktober 2016
+ :Tanggal: 15 Oktober 2016
 
 Perbaikan
 ===========
@@ -42,6 +42,6 @@ Perbaikan
 
 2016.1.0
 *************
-..:Tanggal: 30 September 2016
+ :Tanggal: 30 September 2016
 
 Release pertama
