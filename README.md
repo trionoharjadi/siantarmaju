@@ -10,5 +10,6 @@ Normally, there are no heading levels assigned to certain characters as the stru
 * -, for subsections
 * ^, for subsubsections
 * ", for paragraphs
+
 Of course, you are free to use your own marker characters (see the reST documentation), and use a deeper nesting level, but keep in mind that most target formats (HTML, LaTeX) have a limited supported nesting depth.
 
