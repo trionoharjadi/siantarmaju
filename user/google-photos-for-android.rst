@@ -36,13 +36,6 @@ Pelajari bagaimana menemukan orang, tempat atau hal yang lain di dalam fotomu
 *********************************
 Mari kita gunakan foto yang baru saja Anda ambil dan tambahkan beberapa hal yang menyenangkan di sana
 
-.. sidebar:: Sidebar Title
-    :subtitle: Optional Sidebar Subtitle
-
-    Subsequent indented lines comprise
-    the body of the sidebar, and are
-    interpreted as body elements.
-
 Menambahkan sebuah filter
 ============================
 Buka aplikasi Google Photos .
