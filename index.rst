@@ -23,15 +23,6 @@ Information about development is also available:
 
    user/google-photos-for-android
 
-.. _about-docs:
-
-.. toctree::
-   :maxdepth: 2
-   :caption: About this apps
-
-   about/release-notes
-   about/feedback
-
 
 .. _feature-docs:
 
@@ -40,19 +31,16 @@ Information about development is also available:
    :glob:
    :caption: Feature Documentation
 
-   webhooks
-   badges
-   alternate_domains
-   localization
-   vcs
-   subprojects
-   conda
-   canonical
-   single_version
-   privacy
-   user-defined-redirects
-   automatic-redirects
    features/*
+
+.. _about-docs:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: About
+
+   about/release-notes
+   about/feedback
 
 
 .. _dev-docs:
@@ -62,22 +50,7 @@ Information about development is also available:
    :caption: Developer Documentation
 
    dev/search
-
-.. _business-docs:
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Business Documentation
-
-   business/index
-
-.. _custom-docs:
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Custom Install Documentation
-
-   custom_installs/index
+   
 
 .. _design-docs:
 
