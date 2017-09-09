@@ -37,17 +37,12 @@ Information about development is also available:
 
 .. toctree::
    :maxdepth: 2
-   :caption: About Read the Docs
+   :caption: About this apps
 
-   contribute
    team
-   code-of-conduct
-   ethical-advertising
-   sponsors
-   open-source-philosophy
-   story
-   talks
-   dmca/index
+   release-notes
+   feedback
+
 
 .. _feature-docs:
 
