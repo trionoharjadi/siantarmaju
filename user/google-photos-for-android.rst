@@ -2,21 +2,22 @@ Mulai menggunakan Google Photos
 #################################
  
 Pelajari menggunakan Google Photos dengan mengikuti langkah langkah berikut, maka Anda akan tahu bagaimana caranya
-Mencari foto Anda
+Mencari foto Anda.
+
 * Menambahkan filter
 * Restore atau mengembalikan foto yang sudah terlanjur dihapus
 
 
 1.Download aplikasi, kemudian ambilah sebuah foto
 *****************************************************
-Bila Anda belum memiliki aplikasi Google Photos di ponsel Anda, Download dan install aplikasi Google Photos    dari Playstore.
+Bila Anda belum memiliki aplikasi Google Photos di ponsel Anda, Download dan install aplikasi Google Photos dari Playstore.
 Setelah selesai menginstall aplikasi google photos kemudian ambilah sebuah foto, boleh foto dirimu sendiri atau semua yang ada disekitar mu
 
 2.Menemukan foto dengan cepat
 *********************************
 Ketika Anda membuka aplikasi Google Photos, maka Anda akan melihat semua foto dan video di ponsel Anda, bila Anda menyalakan  "back up & sync," maka semua akan otomatis sinkronisasi dengan Google Photos library Anda
 
-**Ayo kita coba menemukan foto Anda**
+*Ayo kita coba menemukan foto Anda*
 
 Menemukan Foto yang baru diambil
 ==================================
@@ -73,5 +74,10 @@ Bayangkan bila Anda berubah pikiran dan menginginkan foto tadi kembali
 Pada bagian atas sebelah kiri, tap Menu  > Trash. Semua yang Anda lihat di dalam tempat sampah bisa dikembalikan, tetapi item tersebut akan dihapus secara permanen setelah 60 hari di tempat sampah
 Tekan dan tahan foto yang baru saja Anda hapus
 Pada bagian atas sebelah kanan, tap Restore . Ini akan mengembalikan foto Anda ke dalam aplikasi di bagian Photos
-Perlu Anda Ketahui di aplikasi Google Photos di Siantarmaju.com, foto yang sudah di hapus tidak dapat di restore kembali bila sudah di hapus dari tempat sampah. . 
+Perlu Anda Ketahui di aplikasi Google Photos di Siantarmaju.com, foto yang sudah di hapus tidak dapat di restore kembali bila sudah di hapus dari tempat sampah.
 
+. topic:: Your Topic Title
+
+    Subsequent indented lines comprise
+    the body of the topic, and are
+    interpreted as body elements.
