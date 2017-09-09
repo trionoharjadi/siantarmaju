@@ -42,7 +42,7 @@ Buka aplikasi Google Photos .
 Tap foto yang ingin Anda edit > Edit .
 Pada bagian bawah, tap Filter .
 Scroll melalui filter ke bagian bawah. Pilih beberapa untuk melihat tampilannya
-.. :Tip:: Anda bisa tap filter dua kali untuk mengatur intensitasnya
+		:Tip: Anda bisa tap filter dua kali untuk mengatur intensitasnya
 Pada bagian atas, tap save
 Apabila  "back up & sync" on, maka hasil edit tadi akan otomatis sinkronisasi ke semua device yang mengguna google photos, jadi Anda hanya perlu melakukan perubahan sekali saja.
 
