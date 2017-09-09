@@ -8,13 +8,13 @@ Mencari foto Anda.
 * Restore atau mengembalikan foto yang sudah terlanjur dihapus
 
 
-1.Download aplikasi, kemudian ambilah sebuah foto
-*****************************************************
+	1.Download aplikasi, kemudian ambilah sebuah foto
+************************************************************
 Bila Anda belum memiliki aplikasi Google Photos di ponsel Anda, Download dan install aplikasi Google Photos dari Playstore.
 Setelah selesai menginstall aplikasi google photos kemudian ambilah sebuah foto, boleh foto dirimu sendiri atau semua yang ada disekitar mu
 
-2.Menemukan foto dengan cepat
-*********************************
+	2.Menemukan foto dengan cepat
+***************************************
 Ketika Anda membuka aplikasi Google Photos, maka Anda akan melihat semua foto dan video di ponsel Anda, bila Anda menyalakan  "back up & sync," maka semua akan otomatis sinkronisasi dengan Google Photos library Anda
 
 *Ayo kita coba menemukan foto Anda*
