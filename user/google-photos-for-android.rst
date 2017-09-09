@@ -18,18 +18,18 @@ Ketika Anda membuka aplikasi Google Photos, maka Anda akan melihat semua foto da
 
 **Ayo kita coba menemukan foto Anda**
 
-	Menemukan Foto yang baru diambil
-	==================================
-	Buka aplikasi Google Photos
-	Pada bagian bawah, tap Photos
-	Anda akan melihat foto yang baru diambil di bagian atas, coba untuk geser layar Anda ke bawah untuk melihat yang lain
+Menemukan Foto yang baru diambil
+==================================
+Buka aplikasi Google Photos
+Pada bagian bawah, tap Photos
+Anda akan melihat foto yang baru diambil di bagian atas, coba untuk geser layar Anda ke bawah untuk melihat yang lain
 
-	Menemukan foto lama Anda yang mengesankan
-	===========================================
-	Pikirkan foto yang mengesankan yang ada di ponsel atau tablet Anda. Cobalah mengingat sesuatu di foto itu, seperti anjing, pantai, atau di mana Anda berada.
-	Pada kotak di bagian atas, ketikkan nama dari sesuatu yang ada di dalam foto, seperti pantai, anjing atau paris.
-	Pada bagian bawah dari keyboard, tap enter. Ini bisa jadi berbeda tergantung pada ponsel
-	Pelajari bagaimana menemukan orang, tempat atau hal yang lain di dalam fotomu
+Menemukan foto lama Anda yang mengesankan
+===========================================
+Pikirkan foto yang mengesankan yang ada di ponsel atau tablet Anda. Cobalah mengingat sesuatu di foto itu, seperti anjing, pantai, atau di mana Anda berada.
+Pada kotak di bagian atas, ketikkan nama dari sesuatu yang ada di dalam foto, seperti pantai, anjing atau paris.
+Pada bagian bawah dari keyboard, tap enter. Ini bisa jadi berbeda tergantung pada ponsel
+Pelajari bagaimana menemukan orang, tempat atau hal yang lain di dalam fotomu
 
 3.Edit foto menggunakan filter
 *********************************
@@ -42,7 +42,7 @@ Buka aplikasi Google Photos .
 Tap foto yang ingin Anda edit > Edit .
 Pada bagian bawah, tap Filter .
 Scroll melalui filter ke bagian bawah. Pilih beberapa untuk melihat tampilannya
-		Tip: Anda bisa tap filter dua kali untuk mengatur intensitasnya
+.. :Tip:: Anda bisa tap filter dua kali untuk mengatur intensitasnya
 Pada bagian atas, tap save
 Apabila  "back up & sync" on, maka hasil edit tadi akan otomatis sinkronisasi ke semua device yang mengguna google photos, jadi Anda hanya perlu melakukan perubahan sekali saja.
 
