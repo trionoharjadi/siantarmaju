@@ -8,29 +8,29 @@ Mencari foto Anda.
 * Restore atau mengembalikan foto yang sudah terlanjur dihapus
 
 
- 1.Download aplikasi, kemudian ambilah sebuah foto
+1.Download aplikasi, kemudian ambilah sebuah foto
 ************************************************************
- Bila Anda belum memiliki aplikasi Google Photos di ponsel Anda, Download dan install aplikasi Google Photos dari Playstore.
- Setelah selesai menginstall aplikasi google photos kemudian ambilah sebuah foto, boleh foto dirimu sendiri atau semua yang ada disekitar mu
+Bila Anda belum memiliki aplikasi Google Photos di ponsel Anda, Download dan install aplikasi Google Photos dari Playstore.
+Setelah selesai menginstall aplikasi google photos kemudian ambilah sebuah foto, boleh foto dirimu sendiri atau semua yang ada disekitar mu
 
- 2.Menemukan foto dengan cepat
+2.Menemukan foto dengan cepat
 ***************************************
- Ketika Anda membuka aplikasi Google Photos, maka Anda akan melihat semua foto dan video di ponsel Anda, bila Anda menyalakan  "back up & sync," maka semua akan otomatis sinkronisasi dengan Google Photos library Anda
+Ketika Anda membuka aplikasi Google Photos, maka Anda akan melihat semua foto dan video di ponsel Anda, bila Anda menyalakan  "back up & sync," maka semua akan otomatis sinkronisasi dengan Google Photos library Anda
 
 *Ayo kita coba menemukan foto Anda*
 
-  Menemukan Foto yang baru diambil
+Menemukan Foto yang baru diambil
 ==================================
-  Buka aplikasi Google Photos
-  Pada bagian bawah, tap Photos
-  Anda akan melihat foto yang baru diambil di bagian atas, coba untuk geser layar Anda ke bawah untuk melihat yang lain
+Buka aplikasi Google Photos
+Pada bagian bawah, tap Photos
+Anda akan melihat foto yang baru diambil di bagian atas, coba untuk geser layar Anda ke bawah untuk melihat yang lain
 
-  Menemukan foto lama Anda yang mengesankan
+Menemukan foto lama Anda yang mengesankan
 ===========================================
-  Pikirkan foto yang mengesankan yang ada di ponsel atau tablet Anda. Cobalah mengingat sesuatu di foto itu, seperti anjing, pantai, atau di mana Anda berada.
-  Pada kotak di bagian atas, ketikkan nama dari sesuatu yang ada di dalam foto, seperti pantai, anjing atau paris.
-  Pada bagian bawah dari keyboard, tap enter. Ini bisa jadi berbeda tergantung pada ponsel
-  Pelajari bagaimana menemukan orang, tempat atau hal yang lain di dalam fotomu
+Pikirkan foto yang mengesankan yang ada di ponsel atau tablet Anda. Cobalah mengingat sesuatu di foto itu, seperti anjing, pantai, atau di mana Anda berada.
+Pada kotak di bagian atas, ketikkan nama dari sesuatu yang ada di dalam foto, seperti pantai, anjing atau paris.
+Pada bagian bawah dari keyboard, tap enter. Ini bisa jadi berbeda tergantung pada ponsel
+Pelajari bagaimana menemukan orang, tempat atau hal yang lain di dalam fotomu
 
 3.Edit foto menggunakan filter
 *********************************
