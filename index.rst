@@ -21,16 +21,6 @@ Information about development is also available:
    :maxdepth: 2
    :caption: User Documentation
 
-   getting_started
-   versions
-   builds
-   features
-   support
-   faq
-   yaml-config
-   guides/index
-   api
-   embed
    user/google-photos-for-android
 
 .. _about-docs:
