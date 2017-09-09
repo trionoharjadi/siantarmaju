@@ -8,12 +8,12 @@ Mencari foto Anda.
 * Restore atau mengembalikan foto yang sudah terlanjur dihapus
 
 
-	1.Download aplikasi, kemudian ambilah sebuah foto
+1.Download aplikasi, kemudian ambilah sebuah foto
 ************************************************************
 Bila Anda belum memiliki aplikasi Google Photos di ponsel Anda, Download dan install aplikasi Google Photos dari Playstore.
 Setelah selesai menginstall aplikasi google photos kemudian ambilah sebuah foto, boleh foto dirimu sendiri atau semua yang ada disekitar mu
 
-	2.Menemukan foto dengan cepat
+2.Menemukan foto dengan cepat
 ***************************************
 Ketika Anda membuka aplikasi Google Photos, maka Anda akan melihat semua foto dan video di ponsel Anda, bila Anda menyalakan  "back up & sync," maka semua akan otomatis sinkronisasi dengan Google Photos library Anda
 
@@ -53,7 +53,8 @@ Mari kita ambil foto yang baru saja Anda edit dan share ke seseorang
 Foto yang baru saja Anda edit pasti masih ada di layar Anda. Pada bagian bawah, tap icon share > Create link.
 Gunakan aplikasi pesan atau email untuk mengirimkan link yang anda salin kepada seseorang.
 Pelajari lebih tentang bagaimana berbagi foto dan video 
-	Di google Photos hanya bisa berbagi foto atau album melalui link dan tidak bisa merubah kepemilikan file tersebut (change ownership) 
+
+.. note:: Di google Photos hanya bisa berbagi foto atau album melalui link dan tidak bisa merubah kepemilikan file tersebut (change ownership) 
 
 5.Menghapus foto buram atau yang tidak diinginkan
 ******************************************************
@@ -76,8 +77,4 @@ Tekan dan tahan foto yang baru saja Anda hapus
 Pada bagian atas sebelah kanan, tap Restore . Ini akan mengembalikan foto Anda ke dalam aplikasi di bagian Photos
 Perlu Anda Ketahui di aplikasi Google Photos di Siantarmaju.com, foto yang sudah di hapus tidak dapat di restore kembali bila sudah di hapus dari tempat sampah.
 
-.. topic:: Your Topic Title
 
-    Subsequent indented lines comprise
-    the body of the topic, and are
-    interpreted as body elements.
