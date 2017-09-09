@@ -42,7 +42,7 @@ Buka aplikasi Google Photos .
 Tap foto yang ingin Anda edit > Edit .
 Pada bagian bawah, tap Filter .
 Scroll melalui filter ke bagian bawah. Pilih beberapa untuk melihat tampilannya
-	:Tip: Anda bisa tap filter dua kali untuk mengatur intensitasnya
+	:Tips: *Anda bisa tap filter dua kali untuk mengatur intensitasnya
 Pada bagian atas, tap save
 Apabila  "back up & sync" on, maka hasil edit tadi akan otomatis sinkronisasi ke semua device yang mengguna google photos, jadi Anda hanya perlu melakukan perubahan sekali saja.
 
@@ -53,7 +53,7 @@ Foto yang baru saja Anda edit pasti masih ada di layar Anda. Pada bagian bawah, 
 Gunakan aplikasi pesan atau email untuk mengirimkan link yang anda salin kepada seseorang.
 Pelajari lebih tentang bagaimana berbagi foto dan video 
 
-.. note:: Di google Photos hanya bisa berbagi foto atau album melalui link dan tidak bisa merubah kepemilikan file tersebut (change ownership) 
+.. warning:: Di google Photos hanya bisa berbagi foto atau album melalui link dan tidak bisa merubah kepemilikan file tersebut (change ownership) 
 
 5.Menghapus foto buram atau yang tidak diinginkan
 ******************************************************
