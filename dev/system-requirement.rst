@@ -1,4 +1,4 @@
-System Requirement
+System Requirements
 #####################
  * this is sample
 
