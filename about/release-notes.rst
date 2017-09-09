@@ -44,4 +44,4 @@ Perbaikan
 *************
  :Tanggal: 30 September 2016
 
-Release pertama
+ * Release pertama
