@@ -29,7 +29,6 @@ Information about development is also available:
    :maxdepth: 2
    :caption: About this apps
 
-   team
    release-notes
    feedback
 
