@@ -1,6 +1,6 @@
 .. comment
 
-Selamat datang di siantarmaju docs
+Selamat datang di OLD siantarmaju docs
 ==================================================
 Website ini merupakan pusat informasi mengenai aplikasi yang dibuat oleh siantarmaju.
 
